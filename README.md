@@ -1,4 +1,4 @@
-![](https://github.com/pranav-lad/pranav-lad.github.io/blob/main/Black%20Minimal%20Motivation%20Quote%20LinkedIn%20Banner.mp4)
+![](https://github.com/pranav-lad/pranav-lad.github.io/raw/main/Black%20Minimal%20Motivation%20Quote%20LinkedIn%20Banner.mp4)
 
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Pranav Lad
 ==================================================================================================================================

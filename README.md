@@ -10,8 +10,8 @@ Changing lifestyles and business operation through lines of code. Providing webs
 
 * 🌍  I'm based in Pune
 * ✉️  You can contact me at [pranav.lad0308@gmail.com](mailto:pranav.lad0308@gmail.com)
-* 🧠  I'm learning Web Development
-* 🤝  I'm open to collaborating on Full Stack Application
+* 🧠  Skilled in full stack Web Development, Python, Shell and scripting.
+* 🤝  I'm open to collaborating on Full Stack Application.
 
 ### Skills
 
